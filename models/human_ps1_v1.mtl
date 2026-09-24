@@ -1,0 +1,30 @@
+# WOLBET PS1 HUMAN V1 materials
+newmtl skin
+Kd 0.55 0.38 0.27
+Ka 0.08 0.05 0.04
+Ns 8
+
+newmtl shirt
+Kd 0.12 0.14 0.16
+Ka 0.02 0.02 0.02
+Ns 4
+
+newmtl pants
+Kd 0.07 0.08 0.09
+Ka 0.01 0.01 0.01
+Ns 3
+
+newmtl boots
+Kd 0.025 0.025 0.025
+Ka 0.005 0.005 0.005
+Ns 2
+
+newmtl hair
+Kd 0.025 0.018 0.012
+Ka 0.005 0.004 0.003
+Ns 3
+
+newmtl eyes
+Kd 0.65 0.72 0.70
+Ka 0.03 0.03 0.03
+Ns 20
